@@ -29,4 +29,4 @@ The content of this repository is for demonstration purposes only, and the copyr
 ### Note: This was my first web development project, and since then, I have continued to learn and improve my skills. I am always seeking new challenges and opportunities to grow as a developer.
 
 
-Abstruct©
+copyrights reserved to Absturact ©
