@@ -15,3 +15,5 @@ Responsibilities:
 - Conducted extensive testing to ensure the website's functionality and troubleshoot technical issues as needed.
 
 Outcome: Through this project, I gained hands-on experience in web development technologies and project management. I developed my skills in designing and developing interactive websites, as well as my ability to communicate with clients and understand their needs. This project also provided me with a comprehensive portfolio of my work, which I have used to showcase my abilities to potential clients and employers.
+
+copyrights reserved to Absturact ©
