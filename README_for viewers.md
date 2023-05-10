@@ -14,6 +14,14 @@ The repository contains four folders, each representing a milestone in the proje
 
 Each milestone is a branch that contains the code files for the corresponding part of the project's development.
 
+## Repository Layout
+
+- `main`
+  - `Milestone 1: HTML`
+   - `Milestone 1.2: HTML edits`
+  - `Milestone 2: CSS and JavaScript`
+  - `Milestone 3: CSS, JavaScript, and PHP`
+
 ## Copyrights
 
 For copyright reasons, I have not included the images used in the project in this repository. However, I have provided a link to a Google Drive folder where a video showcasing the website can be found.
