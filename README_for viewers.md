@@ -18,7 +18,7 @@ Each milestone is a branch that contains the code files for the corresponding pa
 
 - `main`
   - `Milestone 1: HTML`
-   - `Milestone 1.2: HTML edits`
+      - `Milestone 1.2: HTML edits`
   - `Milestone 2: CSS and JavaScript`
   - `Milestone 3: CSS, JavaScript, and PHP`
 
